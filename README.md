@@ -33,6 +33,10 @@ pip install --ignore-requires-python -r requirements.txt
 streamlit run WorldPulseMain.py
 ```
 
+The app will be accessible at `http://localhost:8501` in your web browser.
+
+![![Screenshot of WorldPulse default launch view in browser](screenshot.png)](./screenshot.png)
+
 ## Project Structure
 
 ```
