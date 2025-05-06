@@ -1,0 +1,15 @@
+streamlit
+streamlit-option-menu
+pandas
+streamlit-aggrid
+# dtale requires Python <3.13 on PyPI; install latest from GitHub to support 3.13
+git+https://github.com/man-group/dtale.git@master#egg=dtale
+# ydata-profiling not yet published for Python 3.13; install from GitHub
+git+https://github.com/ydataai/ydata-profiling.git@master#egg=ydata_profiling
+streamlit-pandas-profiling
+pygwalker
+autoviz
+scikit-learn
+category_encoders
+pycaret
+numpy
