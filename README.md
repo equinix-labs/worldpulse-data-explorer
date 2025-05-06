@@ -18,7 +18,7 @@ An interactive Streamlit app to explore, profile, manipulate and visualize World
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-org/worldpulse-data-explorer.git
+git clone https://github.com/equinix-labs/worldpulse-data-explorer.git
 cd worldpulse-data-explorer
 
 # 2. (Optional) Create & activate a virtual environment
