@@ -8,8 +8,4 @@ git+https://github.com/man-group/dtale.git@master#egg=dtale
 git+https://github.com/ydataai/ydata-profiling.git@master#egg=ydata_profiling
 streamlit-pandas-profiling
 pygwalker
-autoviz
-scikit-learn
-category_encoders
-pycaret
 numpy
