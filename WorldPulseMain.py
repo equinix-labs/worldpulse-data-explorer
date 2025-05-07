@@ -5,7 +5,7 @@ from DataUpload import dataupload_page
 from Data_Dtale import stDtale
 from Data_Profile_WP import stProfile
 from visualization import visualizatn
-
+from categorical import resource_page
 
 
  # Page setup
@@ -55,6 +55,8 @@ def main():
         stProfile()
     elif nav_tab_op == "Visualization":
         visualizatn()
+    elif nav_tab_op == "Resources":
+        resource_page()   
  
 if __name__ == "__main__":
     main()
